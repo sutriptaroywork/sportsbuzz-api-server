@@ -1,0 +1,17 @@
+FROM node:16
+
+WORKDIR /app
+
+COPY package* /app/
+
+COPY . /app
+
+ENV OPENSSL_CONF=/dev/null
+
+RUN npm ci --production --legacy-peer-deps
+RUN npm install --location=global pm2
+
+ENV NODE_ENV=production 
+EXPOSE 1338
+
+CMD ["pm2-runtime", "start", "index.js", "--node-args='--max-old-space-size=4096'"]

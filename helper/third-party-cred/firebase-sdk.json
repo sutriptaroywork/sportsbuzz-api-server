@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "sportsbuzz11-fantasy",
+    "private_key_id": "6aec20bb4f9998cbf424f911f352f820214fdd2b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpbW2rPBbbRrlg\nk68333K6coIrHWZJ6TSWu744Ic2gO5KH+bXuAfdSPEnxaf4XkTCwjrhTN+yTjp7F\nA52X8e/OK2kB0Jpk7FCBgvqHNjTUuYS5PZ7/KDLm4D1bh6U+dQTCmG9n+Zw1bZ7u\nz0abWET0y2dGY9JqT94H5hxazbrCZoyxapNB9eBlfiK+Yun4cKnLL/HKorR6pid2\njVOG/NAbA5ZlwfddKg9z5cAnOzOck6fbqkjgY7fr2/YVXzQVlGGpzLYNcUT0yo/J\n3c+hKI3gNcULLOkh0xpm0I4QFyh0hLpKlTRdVTGGXN3ElFyi9spXsgS/osIJr+Ii\nPbTiV/c/AgMBAAECggEAFOoXMZ4XTDYsyAkzBfilVvKvstbMO693+GtwjclOcssn\nyXU/ygOgHhynHA/zd8FKe2ECy/MJVyWx36wUlh8ddRvSuJChnne1cGdUucAtQV0t\nTxiWOfUiY3Gm4VebRFx5m/PpPLKJX+cKSXx4wNBior1BIGVOIiV9yQfU1Di1Jy4B\n6lwMtPA54e2L++aFgzjZKkr6SvIaRNhxpAHohBJyf+6OlVVvg/qdNyJ5ikv/QZT3\nSd3+hQlDxC8sfSsAT3Tll9TxFclASdNwWkekQ90487Ch60LWgxo9xvxD7gYMz4H6\ngQD43NqeJzk9tpWC9+e00QyNpnk6PCRga3ReEQyOUQKBgQDkK5C1beUNtgNx5Llw\nsu8EXiMclcA1uZCUvRTsRitXAZ4MHUcU7ZjY3RTYWLWUgBtwpNziH8L+YF2uXUCm\nHCFSL60E717tJVq2BrTAOC5v42H3NuOEVG6gi2aqBJP7ATOojgyKgozrZRlLTvNd\nLxhMEYExZcvwzNHK7uReiCF5BQKBgQC+F6rvtSbSPNHHJSYLCCs+7TQt8FTRcRDP\nqBSU4mzj6ti1Qlcpx6j4w8Kk8z5flVe4rMs8woiF+4vt1uS50Yowzoh3wWhJKByv\nPeBDAWQJEt1fdVSqjC6XDqzydyp8EXLNKhoag0V9Mg3wATQX5nZclMBHAki2nQvE\nTHMMIk9ScwKBgCoPgdiADpZNdCsdn7WPtpHWjKBrVohQ0b8pb97yPHEIgkr3ZrAL\n8H4hmwMarzZVuzkzmugwNLDRsNNAq3czfkz5LurW+We72BHwAIfik2TaxKdevegZ\n7F65883plCHUIeKzdMpfsHyAIX6JakFGOjNjkq45drPH/fBrwztN2uXFAoGAd/Xb\nq7Y4L4iuIeyxm1imYemzeiImhJ3DrCg4BNT3PsXfyFN7SiRz37k6RnoyrINEfoid\nIVTqbxMVdRyd7x3rBW3w9RIay8ACihyUP/TKumcrSKh0q8QXSsC6J7FIIE+qkQq2\nunCJE77YyNMZmtOXckl1JdqtJIDrAg/0sn2cbT0CgYEAiQkyaqnb1Kttq+TjCTdR\nxEFnizp20KW3dkLzks+6kAvIDEp1GJ6nVcMbscO0ydRqJkSJkXn2GIX25/516F9r\n5hodhXR6Xd+ZfJXfkj7qcqKQCWCNbTpE2eh9+jOSNCkY5Z6TziZEHXpAh4Qos9Wx\n7c+NAIyvOj7zuBZLfrXuSfU=\n-----END PRIVATE KEY-----\n",
+    "client_email": "mailto:firebase-adminsdk-rff7j@sportsbuzz11-fantasy.iam.gserviceaccount.com",
+    "client_id": "108743899747561938890",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rff7j%40sportsbuzz11-fantasy.iam.gserviceaccount.com"
+}
